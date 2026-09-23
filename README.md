@@ -38,7 +38,8 @@ To analyze the operation of the **GPIO Toggle-Pin API** by developing an Embedde
 
 ---
 ## OUTPUT
-<img width="606" height="540" alt="image" src="https://github.com/user-attachments/assets/e6b22adc-0a3e-49e0-a9b0-4c6576fda047" />
+  
+<img width="600" height="600" alt="IMG_20260918_074624 (1)" src="https://github.com/user-attachments/assets/41b314b1-668e-42ff-8b1f-1b4236d70ad4" />
 
 ## Result
 
