@@ -40,7 +40,6 @@ To analyze the operation of the **GPIO Toggle-Pin API** by developing an Embedde
 ## OUTPUT
 <img width="606" height="540" alt="image" src="https://github.com/user-attachments/assets/e6b22adc-0a3e-49e0-a9b0-4c6576fda047" />
 
-
 ## Result
 
 The LED was successfully switched **ON and OFF continuously at one-second intervals** using the **GPIO Toggle-Pin API** on the **S32K144** microcontroller. The output timing was observed and verified successfully.
